@@ -1,5 +1,7 @@
 Quick Sort:
 
+![Quick Sort Illustration](https://www.geeksforgeeks.org/wp-content/uploads/gq/2014/01/QuickSort2.png)
+
 Quick Sort is a highly efficient sorting algorithm based on the divide-and-conquer strategy, where it recursively divides an array into smaller subarrays and then sorts them. 
 
 Explanation:
@@ -30,6 +32,19 @@ Time Complexity
 
 Counting Sort:
 
+![Counting Sort Illustration 01](https://media.geeksforgeeks.org/wp-content/uploads/20230920182425/1.png)
+![Counting Sort Illustration 02](https://media.geeksforgeeks.org/wp-content/uploads/20230920182436/2.png)
+![Counting Sort Illustration 03](https://media.geeksforgeeks.org/wp-content/uploads/20230922132754/3.png)
+![Counting Sort Illustration 04](https://media.geeksforgeeks.org/wp-content/uploads/20230920182646/4.png)
+![Counting Sort Illustration 05](https://media.geeksforgeeks.org/wp-content/uploads/20230920182656/5.png)
+![Counting Sort Illustration 06](https://media.geeksforgeeks.org/wp-content/uploads/20230920182724/6.png)
+![Counting Sort Illustration 07](https://media.geeksforgeeks.org/wp-content/uploads/20230920182741/7.png)
+![Counting Sort Illustration 08](https://media.geeksforgeeks.org/wp-content/uploads/20230920182752/8.png)
+![Counting Sort Illustration 09](https://media.geeksforgeeks.org/wp-content/uploads/20230920182807/9.png)
+![Counting Sort Illustration 10](https://media.geeksforgeeks.org/wp-content/uploads/20230920182827/10.png)
+![Counting Sort Illustration 11](https://media.geeksforgeeks.org/wp-content/uploads/20230920182855/11.png)
+![Counting Sort Illustration 12](https://media.geeksforgeeks.org/wp-content/uploads/20230920182910/12.png)
+
 Counting Sort is a non-comparative integer sorting algorithm. It works by counting the occurrences of each element in the input array and using this information to place elements in sorted order.
 
 Explanation:
@@ -56,6 +71,13 @@ Time Complexity:
  - Best Case: O(n + k)
 
 Heap Sort:
+
+![Heap Sort Illustration 01](https://media.geeksforgeeks.org/wp-content/uploads/20230530092618/1-(1).webp)
+![Heap Sort Illustration 02](https://media.geeksforgeeks.org/wp-content/uploads/20230530092705/2-(1).webp)
+![Heap Sort Illustration 03](https://media.geeksforgeeks.org/wp-content/uploads/20230530092725/3-(1).webp)
+![Heap Sort Illustration 04](https://media.geeksforgeeks.org/wp-content/uploads/20230530092805/4-(1).webp)
+![Heap Sort Illustration 05](https://media.geeksforgeeks.org/wp-content/uploads/20230530092841/6.webp)
+![Heap Sort Illustration 06](https://media.geeksforgeeks.org/wp-content/uploads/20230530092858/7.webp)
 
 Heap Sort is a comparison-based sorting algorithm that uses a binary heap data structure.
 
